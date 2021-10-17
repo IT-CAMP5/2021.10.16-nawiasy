@@ -22,5 +22,8 @@ public class App {
         if(licznik == 0) {
             System.out.println("Nawiasy się zgadzają !!");
         }
+
+
+        //??????
     }
 }
